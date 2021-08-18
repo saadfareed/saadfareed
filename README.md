@@ -18,7 +18,7 @@
 <br>
 <h2 align="center">Spotify Playing 🎧</h2>
 
-![Spotify](https://novatorem.vercel.app/api/spotify)
+![Spotify](https://novatorem.vercel.app/api/spotify)<center>
 
 <hr>
 ### I'm a Developer, Researcher, Teacher, and Mentor!
