@@ -31,7 +31,7 @@
 
 ## Contribution Graph
 
-[![Saad's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=saadfareed&theme=xcode)](https://github.com/saadhaxxan)
+[![Saad's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=saadfareed&theme=xcode)](https://github.com/saadfareed)
 
 <h2><i>⚙️ GitHub Analytics</i></h2>
 
