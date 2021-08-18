@@ -22,7 +22,6 @@
 <br>
 <hr>
 
-    
 ### I'm a Developer, Researcher, Teacher, and Mentor!
 
 - 🔭 I’m currently working as AI Researcher and Backend Engineer.
@@ -62,4 +61,3 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/saadfareed/count.svg" />
 </p>
-  
