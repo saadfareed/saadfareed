@@ -1,5 +1,6 @@
-# <center>Hi there, I'm Saad Fareed👋</center>
-### I'm a Developer, Teacher,Researcher and Mentor!
+h1 align="center">Hi there, I'm Saad Fareed👋</h1>
+<h3 align="center"> I'm a Full stack Data Scientist | .NET Developer</h3>
+### 
 - 🔭 I’m currently working as AI Researcher and Backend Engineer in onemarketc.com.
 - 🌱 I’m currently learning about Data Engineering and DevOps.
 - 👯 I’m looking to collaborate with other content creators and developers.
