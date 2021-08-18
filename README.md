@@ -31,7 +31,7 @@
 
 - 👯 I’m looking to collaborate with other content creators and developers.
 
-- 📢 Love to teach and inspire students. Taught over more then 1k students.
+- 📢 Love to teach and inspire students. Taught over more than 1k students.
 
 - 🥅 2021 Goals: Contribute more to Open Source projects.
 
@@ -59,3 +59,8 @@
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=saadfareed&column=8&theme=onedark&no-frame=true&no-bg=true"/>
 </a>
 </p>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/saadfareed/count.svg" />
+</p>
+  
