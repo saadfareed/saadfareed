@@ -24,7 +24,7 @@
   </a> 
   &emsp;
   <a href="https://www.w3schools.com/R/" target="_blank"> 
-    <img alt="R" src="https://img.shields.io/badge/R%20-%2300599C.svg?logo=c%2B%2B&logoColor=white">
+    <img alt="R" src="https://img.shields.io/badge/R%20-%2300599C.svg?logo=R%2B%2B&logoColor=white">
   </a> 
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
@@ -36,7 +36,7 @@
   </a>
   &emsp;
    <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white">
+    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c++%2B%2B&logoColor=white">
   </a> 
   &emsp;
 </p>
