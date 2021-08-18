@@ -3,7 +3,7 @@
   <a href="https://github.com/saadfareed"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML|%20NLP|%20Enthusiast;Graphic%20Designer;Always%20learning%20new%20Technology&center=true&width=500&height=50"></a>
 </p>
 <br>
-<h1 align="centre"><i>Connect with me:</i></h2>
+<h1 align="centre"><i>Connect with me:</i></h1>
 <p align="center">
 <a href="https://google.qwiklabs.com/public_profiles/dff7937b-6235-4aab-8242-6a42d03d7aa5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@2.17.0/icons/qwiklabs.svg" alt="SaadFareed" height="30" width="40" /></a>
 <a href="https://codepen.io/saadfareed" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="SaadFareed" height="30" width="40" /></a>
