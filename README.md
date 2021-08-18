@@ -13,5 +13,4 @@
 <img align="left" alt="https://twitter.com/SaadFar80645693 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 <img align="left" alt="https://www.linkedin.com/in/saad-fareed-3343a21b1/ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 <img align="left" alt="https://www.instagram.com/saadfareed_sadi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-
 <br />
