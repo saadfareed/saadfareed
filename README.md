@@ -11,3 +11,21 @@
 <a href="https://www.instagram.com/saadfareed_sadi/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="SaadFareed" height="30" width="40" /></a>
 </p>
 <br>
+
+---
+
+### I'm a Developer, Researcher, Teacher and Mentor!
+
+- 🔭 I’m currently working as AI Researcher and Backend Engineer.
+
+- 🌱 I’m currently learning about Data Engineering and DevOps.
+
+- 👯 I’m looking to collaborate with other content creators and developers.
+
+- 📢 Love to teach and inspire students. Taught over more then 1k students.
+
+- 🥅 2021 Goals: Contribute more to Open Source projects.
+
+## Contribution Graph
+
+[![Saad's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=saadfareed&theme=xcode)](https://github.com/saadhaxxan)
