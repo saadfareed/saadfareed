@@ -14,15 +14,15 @@
 <a href="https://www.kaggle.com/saadfareed/Home?isEditing=False" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@2.17.0/icons/kaggle.svg" alt="SaadFareed" height="30" width="40" /></a>
 </p>
 <br>
-<p align="center">
-  <a href="https://github.com/saadfareed"><span>
-    <img height="48%" src="https://github-readme-stats.vercel.app/api?username=saadfareed&count_private=true&show_icons=true&theme=radical&&include_all_commits=true"/>
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=saadfareed&theme=radical" />
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=saadfareed&hide=html,css,javascript,scss&layout=compact&langs_count=8&theme=radical"/>
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saadfareed&theme=dracula" />
-    </span></a>
-</p>
-  
+
+### Spotify Playing 🎧
+
+![Spotify](https://novatorem.vercel.app/api/spotify)
+
+<br/>
+ 
+ <hr>
+    
 ### I'm a Developer, Researcher, Teacher and Mentor!
 
 - 🔭 I’m currently working as AI Researcher and Backend Engineer.
@@ -40,12 +40,15 @@
 [![Saad's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=saadfareed&theme=xcode)](https://github.com/saadfareed)
 
 <h2><i>⚙️ GitHub Analytics</i></h2>
-
 <p align="center">
-<a href="https://github.com/saadfareed">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saadfareed&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=saadfareed&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <a href="https://github.com/saadfareed"><span>
+    <img height="48%" src="https://github-readme-stats.vercel.app/api?username=saadfareed&count_private=true&show_icons=true&theme=radical&&include_all_commits=true"/>
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=saadfareed&theme=radical" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=saadfareed&hide=html,css,javascript,scss&layout=compact&langs_count=8&theme=radical"/>
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saadfareed&theme=dracula" />
+    </span></a>
+</p>
+<p align="center">
   <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=saadfareed&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
 </p>
 <br/>
