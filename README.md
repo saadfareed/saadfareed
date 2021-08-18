@@ -8,7 +8,7 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects.
 
 <h2><i></i></h2>
-### Connect with me:
+<h2>Connect with me:</h2>
 <p align="center">
 <a href="https://codepen.io/saadfareed" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="SaadFareed" height="30" width="40" /></a>
 <a href="https://dev.to/saadfareed" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="SaadFareed" height="30" width="40" /></a>
