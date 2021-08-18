@@ -1,5 +1,8 @@
 <h1 align="center"> Hi there, I'm Saad Fareed👋 </h1>
-<h2 align="center"> Full stack Data Scientist | .NET Developer</h3>
+<p align="center">
+  <a href="https://github.com/saadfareed"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML|%20NLP;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+</p>
+
 <h2><i><u>Connect with me:</u></i></h2>
 <p align="center">
 <a href="https://google.qwiklabs.com/public_profiles/dff7937b-6235-4aab-8242-6a42d03d7aa5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@2.17.0/icons/qwiklabs.svg" alt="SaadFareed" height="30" width="40" /></a>
@@ -22,8 +25,9 @@
 <br/>
  
  <hr>
+
     
-### I'm a Developer, Researcher, Teacher and Mentor!
+### I'm a Developer, Researcher, Teacher, and Mentor!
 
 - 🔭 I’m currently working as AI Researcher and Backend Engineer.
 
