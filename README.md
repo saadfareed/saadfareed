@@ -48,7 +48,14 @@
     <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saadfareed&theme=dracula" />
     </span></a>
 </p>
+
 <p align="center">
   <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=saadfareed&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
 </p>
 <br/>
+### 🏆 GitHub Profile Trophy:
+<p align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=saadfareed&column=8&theme=onedark&no-frame=true&no-bg=true"/>
+</a>
+</p>
