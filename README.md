@@ -16,9 +16,9 @@
 <a href="https://www.kaggle.com/saadfareed/Home?isEditing=False" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@2.17.0/icons/kaggle.svg" alt="SaadFareed" height="30" width="40" /></a>
 </p>
 <br>
-<h2 align="center">Spotify Playing 🎧</h2>
-
-![Spotify](https://novatorem.vercel.app/api/spotify)<center>
+<h2">Spotify Playing 🎧</h2>
+<center>
+![Spotify](https://novatorem.vercel.app/api/spotify)
 
 <hr>
 ### I'm a Developer, Researcher, Teacher, and Mentor!
