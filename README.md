@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there, I'm Saad Fareed👋 </h1>
-<h3 align="center"> Full stack Data Scientist | .NET Developer</h3>
-<h2><i><center>Connect with me:</center></i></h2>
+<h2 align="center"> Full stack Data Scientist | .NET Developer</h3>
+<h3 align="center"><i>Connect with me:</i></h2>
 <p align="center">
 <a href="https://google.qwiklabs.com/public_profiles/dff7937b-6235-4aab-8242-6a42d03d7aa5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@2.17.0/icons/qwiklabs.svg" alt="SaadFareed" height="30" width="40" /></a>
 <a href="https://codepen.io/saadfareed" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="SaadFareed" height="30" width="40" /></a>
@@ -12,10 +12,8 @@
 <a href="https://www.instagram.com/saadfareed_sadi/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="SaadFareed" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCB5JukXadSvscRtCI0JfGmw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@2.17.0/icons/youtube.svg" alt="SaadFareed" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/saadfareed/Home?isEditing=False" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@2.17.0/icons/kaggle.svg" alt="SaadFareed" height="30" width="40" /></a>
-
 </p>
 <br>
-
 ---
 
 ### I'm a Developer, Researcher, Teacher and Mentor!
