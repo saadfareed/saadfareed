@@ -19,8 +19,9 @@
 <hr>
 <h2>Spotify Playing 🎧</h2>
 ![Spotify](https://novatorem.vercel.app/api/spotify)
- <hr>
 
+<hr>
+<br>
     
 ### I'm a Developer, Researcher, Teacher, and Mentor!
 
