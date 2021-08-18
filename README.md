@@ -11,9 +11,9 @@
 <a href="https://www.instagram.com/saadfareed_sadi/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="SaadFareed" height="30" width="40" /></a>
 </p>
 <br>
-<h3 align="center"> 🔭 I’m currently working as AI Researcher and Backend Engineer in onemarketc.com.></h3>
-<h3 align="center"> 🌱 I’m currently learning about Data Engineering and DevOps.</h3>
-<h3 align="center"> 👯 I’m looking to collaborate with other content creators and developers.</h3>
-<h3 align="center"> 📢 Love to teach and inspire students. Taught over more then 1k students.</h3>
-<h3 align="center"> 🥅 2021 Goals: Contribute more to Open Source projects.</h3>
-
+<h5> 🔭 I’m currently working as AI Researcher and Backend Engineer in onemarketc.com.></h5>
+<h5> 🌱 I’m currently learning about Data Engineering and DevOps.</h5>
+<h5> 👯 I’m looking to collaborate with other content creators and developers.</h5>
+<h5> 📢 Love to teach and inspire students. Taught over more then 1k students.</h5>
+<h5> 🥅 2021 Goals: Contribute more to Open Source projects.</h5>
+<br>
