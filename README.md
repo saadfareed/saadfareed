@@ -16,25 +16,6 @@
 <a href="https://www.kaggle.com/saadfareed/Home?isEditing=False" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@2.17.0/icons/kaggle.svg" alt="SaadFareed" height="30" width="40" /></a>
 </p>
 <br>
-<p>I'm a Developer, Researcher, Teacher, and Mentor!
-
-- 🔭 I’m currently working as AI Researcher and Backend Engineer.
-
-- 🌱 I’m currently learning about Data Engineering and DevOps.
-
-- 👯 I’m looking to collaborate with other content creators and developers.
-
-- 📢 Love to teach and inspire students. Taught over more than 1k students.
-
-- 🥅 2021 Goals: Contribute more to Open Source projects.
-
-</p>
-<hr>
-<h2>Spotify Playing 🎧</h2>
-
-![Spotify](https://novatorem.vercel.app/api/spotify)
-
-<hr>
 
 ## Contribution Graph
 
@@ -59,6 +40,12 @@
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=saadfareed&column=8&theme=onedark&no-frame=true&no-bg=true"/>
 </a>
 </p>
+<hr>
+<h2>Spotify Playing 🎧</h2>
+
+![Spotify](https://novatorem.vercel.app/api/spotify)
+
+<hr>
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/saadfareed/count.svg" />
