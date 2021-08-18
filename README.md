@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there, I'm Saad Fareed👋 </h1>
 <p align="center">
-  <a href="https://github.com/saadfareed"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML|%20NLP;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/saadfareed"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML|%20NLP;Graphic%20Designer;Always%20learning%20new%20Technology&center=true&width=500&height=50"></a>
 </p>
 
 <h2><i><u>Connect with me:</u></i></h2>
