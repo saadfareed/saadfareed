@@ -12,7 +12,7 @@
 <a href="https://www.youtube.com/channel/UCB5JukXadSvscRtCI0JfGmw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@2.17.0/icons/youtube.svg" alt="SaadFareed" height="30" width="40" /></a>
 <!-- Website link -->
   {% if site.resume_social_links.resume_google_scholar_url %}
-  <li class="icon-link-item"><a href="{{ site.resume_social_links.resume_google_scholar_url }}" class="icon-link" itemprop="url">{% include icons/icon-website.html %}</a></li>
+  <li class="icon-link-item"><a href="{{ https://scholar.google.com/citations?user=LINMluUAAAAJ&hl=en}}" class="icon-link" itemprop="url">{% include icons/icon-website.html %}</a></li>
   {% endif %}
 
 </p>
