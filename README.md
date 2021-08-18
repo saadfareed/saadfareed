@@ -1,6 +1,5 @@
 <h1 align="center"> Hi there, I'm Saad Fareed👋 </h1>
 <h3 align="center"> Full stack Data Scientist | .NET Developer</h3>
-<h2><i></i></h2>
 <h2><i><center>Connect with me:</center></i></h2>
 <p align="center">
 <a href="https://google.qwiklabs.com/public_profiles/dff7937b-6235-4aab-8242-6a42d03d7aa5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@2.17.0/icons/qwiklabs.svg" alt="SaadFareed" height="30" width="40" /></a>
