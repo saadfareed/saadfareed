@@ -40,6 +40,3 @@
   <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=saadfareed&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
 </p>
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saadfareed&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
-</p>
