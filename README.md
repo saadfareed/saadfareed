@@ -16,11 +16,6 @@
 <a href="https://www.kaggle.com/saadfareed/Home?isEditing=False" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@2.17.0/icons/kaggle.svg" alt="SaadFareed" height="30" width="40" /></a>
 </p>
 <br>
-<h2">Spotify Playing 🎧</h2>
-<center>
-![Spotify](https://novatorem.vercel.app/api/spotify)
-
-<hr>
 ### I'm a Developer, Researcher, Teacher, and Mentor!
 
 - 🔭 I’m currently working as AI Researcher and Backend Engineer.
@@ -32,6 +27,12 @@
 - 📢 Love to teach and inspire students. Taught over more than 1k students.
 
 - 🥅 2021 Goals: Contribute more to Open Source projects.
+<hr>
+<h2>Spotify Playing 🎧</h2>
+
+![Spotify](https://novatorem.vercel.app/api/spotify)
+
+<hr>
 
 ## Contribution Graph
 
