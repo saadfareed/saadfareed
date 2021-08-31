@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there, I'm Saad Fareed👋 <a href="#">
   <div align="center">
-    <img src="IMG-20210727-WA0015.jpg" width='400'/>
+    <img src="IMG-20210727-WA0015.jpg" width='200'/>
   </div>
 </a> </h1>
 <p align="center">
