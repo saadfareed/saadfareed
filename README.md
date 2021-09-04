@@ -51,4 +51,8 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/saadfareed/count.svg" />
 </p>
+ <style>
+body {background-color: coral;}
+</style>
+
 </body>
