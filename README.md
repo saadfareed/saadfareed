@@ -52,7 +52,7 @@
   <img src="https://profile-counter.glitch.me/saadfareed/count.svg" />
 </p>
  <style>
-body {background-color: coral;}
+body {background-color: white;}
 </style>
 
 </body>
