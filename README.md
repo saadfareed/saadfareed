@@ -45,12 +45,12 @@
 </p>
 <hr>
 <h2 align="center">Spotify Playing 🎧</h2>
-
+<div align="center">
 ![Spotify](https://novatorem.vercel.app/api/spotify)
-
+    </div>
 <hr>
 <p align="center"> 
-  Visitor count<br>
+  Visitor count:<br>
   <img src="https://profile-counter.glitch.me/saadfareed/count.svg" />
 </p>
 
