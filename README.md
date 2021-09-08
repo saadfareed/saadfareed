@@ -44,7 +44,7 @@
 </a>
 </p>
 <hr>
-<h2>Spotify Playing 🎧</h2>
+<h2 align="center">Spotify Playing 🎧</h2>
 
 ![Spotify](https://novatorem.vercel.app/api/spotify)
 
