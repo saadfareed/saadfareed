@@ -21,7 +21,7 @@
 </p>
 <br>
 
-## Contribution Graph
+    <h2 align="center"> Contribution Graph</h2>
 
 [![Saad's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=saadfareed&theme=xcode)](https://github.com/saadfareed)
 
