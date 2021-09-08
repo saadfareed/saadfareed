@@ -25,7 +25,7 @@
 
 [![Saad's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=saadfareed&theme=xcode)](https://github.com/saadfareed)
 
-<h2><i>⚙ GitHub Analytics:</i></h2>
+<h2 align="center"><i>⚙ GitHub Analytics:</i></h2>
 <p align="center">
   <a href="https://github.com/saadfareed"><span>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saadfareed&count_private=true&show_icons=true&theme=radical&&include_all_commits=true"/>
