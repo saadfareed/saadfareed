@@ -38,8 +38,8 @@
   <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=saadfareed&theme=radical&show_icons=true&locale=en&layout=demo&hide_border=true" />
 </p>
 <br/>
-<h2 align="centre">🏆 GitHub Profile Trophy:</h2>
-<p align="right">
+<h2 align="center">🏆 GitHub Profile Trophy:</h2>
+<p align="center">
 <a href="https://github.com/saadfareed">
   <img width=700 src="https://github-profile-trophy.vercel.app/?username=saadfareed&theme=discord"/>
 </a>
