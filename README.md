@@ -52,10 +52,3 @@
 <p align="center">
   <img src="https://github.com/ishikkkkaaaa/ishikkkkaaaa/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
-<hr>
-<p align="center"> 
-  Visitor count:<br>
-  <img src="https://profile-counter.glitch.me/saadfareed/count.svg" />
-</p>
-
-</body>
