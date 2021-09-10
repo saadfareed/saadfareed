@@ -8,7 +8,7 @@
 </p>
 <h1 align="center"> Connect with me: </h1>
 <p align="center">
-<a href="saadfareed632@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/google.svg" alt="SaadFareed" height="30" width="40" /></a>
+<a href="https://mail.google.com/mail/u/0/#inbox?compose=new/saadfareed632@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/google.svg" alt="SaadFareed" height="30" width="40" /></a>
 <a href="https://google.qwiklabs.com/public_profiles/dff7937b-6235-4aab-8242-6a42d03d7aa5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@2.17.0/icons/qwiklabs.svg" alt="SaadFareed" height="30" width="40" /></a>
 <a href="https://codepen.io/saadfareed" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="SaadFareed" height="30" width="40" /></a>
 <a href="https://leetcode.com/Saadfareed/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@2.17.0/icons/leetcode.svg" alt="SaadFareed" height="30" width="40" /></a>
