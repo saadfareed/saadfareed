@@ -37,6 +37,20 @@
   <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=saadfareed&theme=radical&show_icons=true&locale=en&layout=demo&hide_border=true" />
 </p>
 <br/>
+# Github Contributions
+<h4 align="center">Isometric view of contributions in the last year</h4>
+<p align="center">
+	<a href="./profile-3d-contrib/profile-night-green.svg">
+		<img width="900em" src="./profile-3d-contrib/profile-night-green.svg">
+	</a>
+</p>
+
+# Github Metrics
+<p align="center">
+	<img width="625em" src="https://github.com/saadfareed/saadfareed/blob/master/github-metrics.svg" />
+</p>
+    
+<br/>
 <h2 align="center">🏆 GitHub Profile Trophy:</h2>
 <p align="center">
 <a href="https://github.com/saadfareed">
