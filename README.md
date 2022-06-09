@@ -35,12 +35,6 @@
 
 <p align="center">
   <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=saadfareed&theme=radical&show_icons=true&locale=en&layout=demo&hide_border=true" />
-</p>
-   <p align="center">
-<a href="https://github.com/saadfareed">
-  <img width=600 src=" https://github.com/saadfareed?tab=achievements"/>
-</a>
-</p>
 <br/>
 <h2 align="center">🏆 GitHub Profile Trophy:</h2>
 <p align="center">
