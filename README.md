@@ -48,11 +48,7 @@
     </td>
 
 </tr>
-<tr>
-    <td align='center'>
-        <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" >
-    </td>
-</tr>
+ 
 <tr>
     <td align='center'>
         <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png">
@@ -63,7 +59,9 @@
  <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg">
     </td>
-    
+  <td align='center'>
+        <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" >
+    </td>
     
 </tr>
     
