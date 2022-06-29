@@ -63,7 +63,7 @@
         <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" >
     </td>
     <td align='center'>
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4tQ6ZxMVlObIH08ozYIuAgzbirwoLN5gPPcbd94BLkA72Bvv0gBXSxNrOCaNGHAaoG14&usqp=CAU">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4tQ6ZxMVlObIH08ozYIuAgzbirwoLN5gPPcbd94BLkA72Bvv0gBXSxNrOCaNGHAaoG14&usqp=CAU" width="60">
     </td>
 </tr>
     
