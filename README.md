@@ -63,7 +63,7 @@
         <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" >
     </td>
     <td align='center'>
-        <img src="[https://westcampus.yale.edu/sites/default/files/styles/medium/public/event-images/r_0.png?itok=CsKHEjut](https://d1zx6djv3kb1v7.cloudfront.net/wp-content/media/2020/05/R-PROGRAMMING-LANGUAGE-i2tutorials.jpg)" >
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4tQ6ZxMVlObIH08ozYIuAgzbirwoLN5gPPcbd94BLkA72Bvv0gBXSxNrOCaNGHAaoG14&usqp=CAU">
     </td>
 </tr>
     
