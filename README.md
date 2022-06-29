@@ -21,17 +21,15 @@
  <td align='center' width="200">
         <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="60">
     </td>
- 
-</tr>
-<tr>
  <td align='center' width="200">
         <img src="https://git-scm.com/images/logos/1color-darkbg@2x.png" width="100">
     </td>
  <td align='center' width="200">
         <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
     </td>
-   
+ 
 </tr>
+ 
 <tr>
     <td align='center'>
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" height="40" width="60">
