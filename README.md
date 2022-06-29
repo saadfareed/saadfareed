@@ -40,12 +40,10 @@
     <td align='center'>
         <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="60">
     </td>
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg">
-    </td>
-    <td align='center'>
+ <td align='center'>
         <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="60">
     </td>
+    
 
 </tr>
 <tr>
@@ -60,6 +58,10 @@
     <td align='center'>
         <img src="https://buttercms.com/static/images/tech_banners/Flask.png" >
     </td>
+ <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg">
+    </td>
+    
     
 </tr>
 
