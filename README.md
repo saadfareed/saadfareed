@@ -82,7 +82,7 @@
  
 <br>
 <h2 align="center"> Contribution Graph: </h2>
- <img src="https://activity-graph.herokuapp.com/graph?username=saadfareed&theme=dracula"/>
+ <img src="https://activity-graph.herokuapp.com/graph?username=saadfareed&custom_title=This%20is%20a%20title&hide_border=true"/>
  <h2><i>⚙️ GitHub Analytics</i></h2>
 
 <p align="center">
