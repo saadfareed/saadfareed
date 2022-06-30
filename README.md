@@ -82,8 +82,7 @@
  
 <br>
 <h2 align="center"> Contribution Graph: </h2>
- <img src="https://activity-graph.herokuapp.com/graph username=ashutosh00710&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true
-"/>
+ <img src="[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ashutosh00710&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)"/>
  <h2><i>⚙️ GitHub Analytics</i></h2>
 
 <p align="center">
