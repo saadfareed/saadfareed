@@ -104,7 +104,7 @@
 <h2 align="center">🏆 GitHub Profile Trophy:</h2>
 <p align="center">
 <a href="https://github.com/saadfareed">
-  <img src="https://github-profile-trophy.vercel.app/?username=saadfareed&theme=matrix&margin-w=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=saadfareed&theme=matrix&margin-w=10"/>
 
 </a>
 </p>
