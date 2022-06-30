@@ -105,7 +105,7 @@
 <p align="center">
 <a href="https://github.com/saadfareed">
 
-  <img src="https://github-profile-trophy.vercel.app/?username=saadfareedryo-ma&theme=matrix"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=saadfareed ryo-ma&theme=matrix"/>
 </a>
 </p>
 <hr>
