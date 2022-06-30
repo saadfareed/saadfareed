@@ -92,26 +92,7 @@
   <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=saadfareed&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
 </p>
 </p>
- 
- 
- 
- 
 
-[![Saad's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=saadfareed&theme=xcode)](https://github.com/saadfareed)
-
-<h2 align="center"><i>⚙ GitHub Analytics:</i></h2>
-<p align="center">
-  <a href="https://github.com/saadfareed"><span>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saadfareed&count_private=true&show_icons=true&theme=radical&&include_all_commits=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=saadfareed&hide=html,css,javascript,scss&layout=compact&langs_count=8&theme=radical"/>
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saadfareed&theme=dracula" />
-    </span></a>
-</p>
-
-<p align="center">
-  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=saadfareed&theme=radical&show_icons=true&locale=en&layout=demo&hide_border=true" />
-<br/>
- 
 ## Personal Projects
 
 |      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs :fire:  |
