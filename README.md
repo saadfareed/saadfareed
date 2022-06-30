@@ -70,11 +70,6 @@
 </table>
 
 <br />
-<br />
-  
-  
-  
-  
 </p>
 <h2 align="center">🤝🏻 &nbsp;Connect with Me
  
@@ -102,6 +97,15 @@
 <p align="center">
   <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=saadfareed&theme=radical&show_icons=true&locale=en&layout=demo&hide_border=true" />
 <br/>
+ 
+## Some Community Projects
+
+|      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs :fire:  |
+|-------------|-------------------|---|---|
+| [**Meeting Summarization**](https://github.com/saadfareed/transcript_summary) | [![GitHub issues](https://img.shields.io/github/issues/saadfareed/transcript_summary?color=green&logo=github&style=flat)](https://github.com/saadfareed/transcript_summary/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/saadfareed/transcript_summary?style=flat&logo=github)](https://github.com/saadfareed/transcript_summary/pulls)  | [![GitHtiub PRs](https://img.shields.io/github/issues-pr-closed/saadfareed/transcript_summary?style=flat&color=critical&logo=github)](https://github.com/saadfareed/transcript_summary/pulls?q=is%3Apr+is%3Aclosed)  |
+ 
+    
+ 
 <h2 align="center">🏆 GitHub Profile Trophy:</h2>
 <p align="center">
 <a href="https://github.com/saadfareed">
