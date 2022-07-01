@@ -71,7 +71,7 @@
 
 <br />
 </p>
-<h2 align="center">🤝🏻 &nbsp;Connect with Me
+<h2 >🤝🏻 &nbsp;Connect with Me
  
 <p align="center">
 <a href="https://www.linkedin.com/in/saad-fareed/"><img src="https://img.shields.io/badge/-Saad%20Fareed-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
@@ -81,7 +81,7 @@
  </p>
  
 <br>
-<h2 align="center"> Contribution Graph: </h2>
+<h2> Contribution Graph: </h2>
  <img src="https://activity-graph.herokuapp.com/graph?username=saadfareed&bg_color=000005&color=ffffff&line=0c3d6e&point=0863bf&custom_title=This%20is%20a%20title&hide_border=true"/>
  <h2><i>⚙️ GitHub Analytics</i></h2>
 
@@ -102,7 +102,7 @@
  
     
  
-<h2 align="center">🏆 GitHub Profile Trophy:</h2>
+<h2 >🏆 GitHub Profile Trophy:</h2>
 <p>
 <a href="https://github.com/saadfareed">
   <img src="https://github-profile-trophy.vercel.app/?username=saadfareed&theme=matrix&column=8&margin-w=15&margin-h=15"/>
