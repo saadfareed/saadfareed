@@ -123,6 +123,4 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/saadfareed/count.svg" />
 </p>  
-![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bottom_header.svg)
-
 
