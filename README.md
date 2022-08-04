@@ -118,7 +118,7 @@
 </p>
 <br>  
 <hr>
-## Count Visitor
+<h2>Count Visitor</h2>
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/saadfareed/count.svg" />
