@@ -3,7 +3,7 @@
     <h1> Hi there, I'm Saad Fareed👋<a href="#"></h1>
   </div>
 <p align="center">
-  <a href="https://github.com/saadfareed"><img src="https://readme-typing-svg.herokuapp.com?lines=Python+Django+Developer; NLP+Engineer &center=true&width=500&height=50"></a>
+  <a href="https://github.com/saadfareed"><img src="https://readme-typing-svg.herokuapp.com?lines=Python+Django+Developer&center=true&width=500&height=50"></a>
 <br>
  
 <h2><i>💻 Tech Stack</i></h2>
