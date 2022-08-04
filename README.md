@@ -120,7 +120,10 @@
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/saadfareed/count.svg" />
-</p>
-  
+</p>  
 ![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bottom_header.svg)
+<br>
+<p align="center">
+  <img src="https://github.com/saadfareed/saadfareed/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
 
