@@ -7,7 +7,7 @@
 	
  # Bootcamp alert
 - [MLSA Job Hunting Bootcamp](https://github.com/saadfareed/MLSA-Job-Hunting-bootcamp) is started soon.
-<img align="right" alt="" src="fresh.jpg" width="350" />
+<img align="right" alt="" src="fresh.jpg" width="320" />
 	
 ## My Python Development Course 
 - [Python Backend Show with Saad Fareed](https://www.youtube.com/channel/UCB5JukXadSvscRtCI0JfGmw)
@@ -18,7 +18,7 @@
 - 👯 I’m looking to collaborate with other content creators and developers.
 - 📢 Love to teach and inspire students. Taught over more then 500 students.
 - 🥅 2022-23 Goals: Contribute more to Open Source projects and Execute my Innovative ideas.
-- 📢 If you are a Tech boy/girl let's get connected  
+- 💎 If you are a Tech boy/girl let's get connected  
  
 <h2><i>💻 Tech Stack</i></h2>
 
