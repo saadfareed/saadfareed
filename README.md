@@ -4,15 +4,9 @@
   </div>
 <p align="center">
 <a href="https://github.com/saadfareed"><img src="https://readme-typing-svg.herokuapp.com?lines=Python+Django+Developer;Python+Backend+Engineer;Data+Scientist;NLP+Engineer&center=true&width=500&height=50"></a>
-<br>
-
+	
  # Bootcamp alert
 - [MLSA Job-Hunting Bootcamp](https://github.com/saadfareed/MLSA-Job-Hunting-bootcamp) is going to start soon.
- 
-# 
- 
- 
- 
  
  
 <h2><i>💻 Tech Stack</i></h2>
