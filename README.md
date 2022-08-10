@@ -7,7 +7,7 @@
 	
  # Bootcamp alert
 - [MLSA Job-Hunting Bootcamp](https://github.com/saadfareed/MLSA-Job-Hunting-bootcamp) is going to start soon.
-<img align="right" alt="" src="bootcamp.jpeg" width="350" height="350" />
+<img align="right" alt="" src="fresh.jpeg" height="350" />
 
  
 <h2><i>💻 Tech Stack</i></h2>
