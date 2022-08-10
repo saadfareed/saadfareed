@@ -99,8 +99,6 @@
 |-------------|-------------------|---|---|
 | [**Meeting Summarization**](https://github.com/saadfareed/transcript_summary) | [![GitHub issues](https://img.shields.io/github/issues/saadfareed/transcript_summary?color=green&logo=github&style=flat)](https://github.com/saadfareed/transcript_summary/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/saadfareed/transcript_summary?style=flat&logo=github)](https://github.com/saadfareed/transcript_summary/pulls)  | [![GitHtiub PRs](https://img.shields.io/github/issues-pr-closed/saadfareed/transcript_summary?style=flat&color=critical&logo=github)](https://github.com/saadfareed/transcript_summary/pulls?q=is%3Apr+is%3Aclosed)  |
  
-    
- 
 <h2 >🏆 GitHub Profile Trophy:</h2>
 <p>
 <a href="https://github.com/saadfareed">
@@ -109,17 +107,6 @@
 </a>
 </p>
 <br>
-<p align="center">
-  <img src="https://github.com/saadfareed/saadfareed/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
-<br>  
-<hr>
-<h2>Count Visitor</h2>
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/saadfareed/count.svg" />
-</p>
-
 # Github Contributions
 <h4 align="center">Isometric view of contributions in the last year</h4>
 <p align="center">
@@ -131,4 +118,13 @@
 # Github Metrics
 <p align="center">
 	<img width="625em" src="https://github.com/saadfareed/saadfareed/blob/main/github-metrics.svg" />
+</p>
+<br>
+<p align="center">
+  <img src="https://github.com/saadfareed/saadfareed/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
+<br>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/saadfareed/count.svg" />
 </p>
