@@ -59,7 +59,6 @@
     <td align='center'>
         <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/TensorFlow_Logo_with_text.png">
     </td>
-
 </tr>
  
 <tr>
