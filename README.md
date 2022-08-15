@@ -5,11 +5,11 @@
 <p align="center">
 <a href="https://github.com/saadfareed"><img src="https://readme-typing-svg.herokuapp.com?lines=Python+Django+Developer;Python+Backend+Engineer;Data+Scientist;NLP+Engineer&center=true&width=500&height=50"></a>
 	
- ## Bootcamp alert
+ ## 👀Bootcamp alert
 - [MLSA Job Hunting Bootcamp](https://github.com/saadfareed/MLSA-Job-Hunting-bootcamp) will started soon.
 <img align="right" alt="" src="fresh.jpg" width="270" />
 	
-## My Python Development Course 
+## 📚My Python Development Course 
 - [Python Backend Show with Saad Fareed](https://www.youtube.com/channel/UCB5JukXadSvscRtCI0JfGmw)
 
 ### I'm a Python Developer, Teacher and Researcher!
@@ -110,7 +110,7 @@
 </p>
 <br>
 	
-## Github Contributions :octocat
+## ⚡️Github Contributions
 	
 <h4 align="center">Isometric view of contributions in the last year</h4>
 <p align="center">
@@ -120,7 +120,7 @@
 </p>
 
 
-## Github Metrics
+## 🚀Github Metrics
 <p align="center">
 	<img width="625em" src="https://github.com/saadfareed/saadfareed/blob/main/github-metrics.svg" />
 </p>
