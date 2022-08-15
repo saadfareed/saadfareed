@@ -110,7 +110,7 @@
 </p>
 <br>
 	
-# Github Contributions
+## Github Contributions
 	
 <h4 align="center">Isometric view of contributions in the last year</h4>
 <p align="center">
@@ -120,7 +120,7 @@
 </p>
 
 
-# Github Metrics
+## Github Metrics
 <p align="center">
 	<img width="625em" src="https://github.com/saadfareed/saadfareed/blob/main/github-metrics.svg" />
 </p>
