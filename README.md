@@ -110,7 +110,7 @@
 </p>
 <br>
 	
-## Github Contributions
+## Github Contributions :octocat
 	
 <h4 align="center">Isometric view of contributions in the last year</h4>
 <p align="center">
