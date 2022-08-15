@@ -20,7 +20,7 @@
 - 🥅 2022-23 Goals: Contribute more to Open Source projects and Execute my Innovative ideas.
 - 💎 If you are a Tech boy/girl let's get connected  
  
-<h2><i>💻 Tech Stack</i></h2>
+<h2>Tech Stack</h2>
 
 <table width="100">
 <tr>
@@ -98,7 +98,7 @@
 | [**Meeting Summarization**](https://github.com/saadfareed/transcript_summary) | [![GitHub issues](https://img.shields.io/github/issues/saadfareed/transcript_summary?color=green&logo=github&style=flat)](https://github.com/saadfareed/transcript_summary/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/saadfareed/transcript_summary?style=flat&logo=github)](https://github.com/saadfareed/transcript_summary/pulls)  | [![GitHtiub PRs](https://img.shields.io/github/issues-pr-closed/saadfareed/transcript_summary?style=flat&color=critical&logo=github)](https://github.com/saadfareed/transcript_summary/pulls?q=is%3Apr+is%3Aclosed)  |
  
 
- <h2><i>⚙️ GitHub Analytics</i></h2>
+ <h2>GitHub Analytics</h2>
 
 <p align="center">
 <a href="https://github.com/saadfareed">
