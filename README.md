@@ -90,6 +90,10 @@
  
 <br>
 
+[![@sadi's Holopin board](https://holopin.io/api/user/board?user=sadi)](https://holopin.io/@sadi)
+
+<br>
+
 
 ## Personal Projects
 
@@ -143,9 +147,6 @@
 
 </a>
 </p>
-
-[![@saadfareed's Holopin board](https://holopin.io/api/user/board?user=saadfareed)](https://holopin.io/@saadfareed)
-
 <p align="center"> 
   Views<br>
   <img src="https://profile-counter.glitch.me/saadfareed/count.svg" />
