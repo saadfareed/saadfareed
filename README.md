@@ -54,7 +54,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="170">
     </td>
      <td align='center'>
-        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg">
+        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="80">
     </td>
     <td align='center'>
         <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg">
