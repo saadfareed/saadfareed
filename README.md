@@ -78,6 +78,24 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" width="100">
     </td>
 </tr>
+	
+<tr>
+    <td align='center'>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png"  width="70">
+    </td>
+    <td align='center'>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="80">
+    </td>
+ <td align='center'>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="170">
+    </td>
+     <td align='center'>
+        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="90">
+    </td>
+    <td align='center'>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg">
+    </td>
+</tr>
     
 </table>
 </p>
