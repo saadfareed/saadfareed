@@ -25,7 +25,7 @@
 <table width="100">
 <tr>
     <td align='center' width="200">
-        <img src="https://download.logo.wine/logo/Microsoft_Azure/Microsoft_Azure-Logo.wine.png" width="100">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="100">
     </td>
 
   <td align='center' width="200">
