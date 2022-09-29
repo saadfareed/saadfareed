@@ -75,7 +75,7 @@
         <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" >
     </td>
     <td align='center'>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" width="80">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" width="100">
     </td>
 </tr>
     
