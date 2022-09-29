@@ -32,7 +32,7 @@
         <img src="https://www.jing.fm/clipimg/full/53-537670_python-png-file-python-logo-png.png"  width="100">
     </td>
  <td align='center' width="200">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="100">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="100">
     </td>
  <td align='center' width="200">
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="100">
