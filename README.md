@@ -15,9 +15,9 @@
 ### I'm a Python Developer, Teacher and Researcher!
 
 - 🔭 I’m currently working as Backend Engineer @Turing.
-- 🌱 I’m currently expanding my knowledge in DevOps.
+- 🌱 I’m currently expanding my knowledge in MERN STACK.
 - 👯 I’m looking to collaborate with other content creators and developers.
-- 📢 Love to teach and inspire students. Taught over more then 500 students.
+- 📢 Love to teach and inspire students. Taught over more then 600 students.
 - 🥅 2022-23 Goals: Contribute more to Open Source projects and Execute my Innovative ideas.
 - 💎 If you are a Tech boy/girl let's get connected
 
