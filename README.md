@@ -14,7 +14,7 @@
 
 ### I'm a Python Developer, Teacher and Researcher!
 
-- 🔭 I’m currently working as Backend Engineer @Turing.
+- 🔭 I’m currently working as Backend Engineer @OcloudSolutions.
 - 🌱 I’m currently expanding my knowledge in MERN Stack.
 - 👯 I’m looking to collaborate with other content creators and developers.
 - 📢 Love to teach and inspire students. Taught over more then 600 students.
