@@ -25,17 +25,17 @@
 <table width="100">
 <tr>
     <td align='center' width="200">
-        <img src="https://download.logo.wine/logo/Microsoft_Azure/Microsoft_Azure-Logo.wine.png" width="80">
+        <img src="https://download.logo.wine/logo/Microsoft_Azure/Microsoft_Azure-Logo.wine.png" width="100">
     </td>
 
   <td align='center' width="200">
-        <img src="https://www.jing.fm/clipimg/full/53-537670_python-png-file-python-logo-png.png"  width="80">
+        <img src="https://www.jing.fm/clipimg/full/53-537670_python-png-file-python-logo-png.png"  width="100">
     </td>
  <td align='center' width="200">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="80">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="100">
     </td>
  <td align='center' width="200">
-        <img src="https://git-scm.com/images/logos/1color-darkbg@2x.png" width="100">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="100">
     </td>
  <td align='center' width="200">
         <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
