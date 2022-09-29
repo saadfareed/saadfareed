@@ -10,7 +10,7 @@
 <img align="right" alt="" src="fresh.jpg" width="270" />
 	
 ## My Python Development Course 
-- [Python Backend Show with Saad Fareed](https://www.youtube.com/channel/UCSy4EMgtOa5rajZzmXOdTTQ)
+- [Youtube channel for Tips](https://www.youtube.com/channel/UCSy4EMgtOa5rajZzmXOdTTQ)
 
 ### I'm a Python Developer, Teacher and Researcher!
 - 🔭 I’m currently working as Backend Engineer @Turing.
