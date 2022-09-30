@@ -128,6 +128,7 @@
 	<img width="625em" src="https://github.com/saadfareed/saadfareed/blob/main/github-metrics.svg" />
 </p>
 <br>
+
 ## Personal Projects
 
 | Project :octocat:                                                                | Issues :bug:                                                                                                                                                                             | Open PRs :bell:                                                                                                                                                             | Closed PRs :fire:                                                                                                                                                                                                       | Last Commit 🚩                                                                                                                                                                                      |
