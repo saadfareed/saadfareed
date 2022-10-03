@@ -106,6 +106,7 @@
 <a href="https://www.instagram.com/saadfareed_sadi/"><img src="https://img.shields.io/badge/-@saadfareed-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://leetcode.com/Saadfareed/"><img src="https://img.shields.io/badge/-/saadfareed-e8b519?style=flat&logo=leetcode&logoColor=black"/></a>
  </p>
+	
 ## Personal Projects
 
 | Project :octocat:                                                                | Issues :bug:                                                                                                                                                                             | Open PRs :bell:                                                                                                                                                             | Closed PRs :fire:                                                                                                                                                                                                       | Last Commit 🚩                                                                                                                                                                                      |
