@@ -106,12 +106,6 @@
 <a href="https://www.instagram.com/saadfareed_sadi/"><img src="https://img.shields.io/badge/-@saadfareed-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://leetcode.com/Saadfareed/"><img src="https://img.shields.io/badge/-/saadfareed-e8b519?style=flat&logo=leetcode&logoColor=black"/></a>
  </p>
- 
-<br>
-
-[![@sadi's Holopin board](https://holopin.io/api/user/board?user=sadi)](https://holopin.io/@sadi)
-
-<br>
 
 ## ⚡️Github Contributions
 	
@@ -139,6 +133,8 @@
 | [**Leetcode Practice**](https://github.com/saadfareed/Leetcode)                  | [![GitHub issues](https://img.shields.io/github/issues/saadfareed/Leetcode?color=green&logo=github&style=flat)](https://github.com/saadfareed/Leetcode/issues)                           | [![GitHub PRs](https://img.shields.io/github/issues-pr/saadfareed/Leetcode?style=flat&logo=github)](https://github.com/saadfareed/Leetcode/pulls)                           | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/saadfareed/Leetcode?style=flat&color=critical&logo=github)](https://github.com/saadfareed/Leetcode/pulls?q=is%3Apr+is%3Aclosed)                           | [![GitHub last commit](https://img.shields.io/github/last-commit/saadfareed/Leetcode?color=blue&logo=github&style=flat)](https://github.com/saadfareed/Leetcode/commits/)                           |
 
  
+[![@sadi's Holopin board](https://holopin.io/api/user/board?user=sadi)](https://holopin.io/@sadi)
+	
 ## 🐛Github Magic Game
 
 <p align="center">
