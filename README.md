@@ -106,6 +106,12 @@
 <a href="https://www.instagram.com/saadfareed_sadi/"><img src="https://img.shields.io/badge/-@saadfareed-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://leetcode.com/Saadfareed/"><img src="https://img.shields.io/badge/-/saadfareed-e8b519?style=flat&logo=leetcode&logoColor=black"/></a>
  </p>
+ 
+ 
+|Stats />|Streak />|Languages />
+|---|---|---|
+|![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saadfareed&theme=gruvbox)|[![GitHub Streak](https://streak-stats.demolab.com/?user=saadfareed&theme=gruvbox&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888)](https://git.io/streak-stats)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saadfareed&theme=gruvbox)|
+ 
 	
 ## Personal Projects
 
