@@ -23,7 +23,7 @@
 
 <h2>Tech Stack</h2>
 
-<table width="100">
+<table width="80%">
 <tr>
     <td align='center' width="200">
         <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="100">
