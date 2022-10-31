@@ -138,7 +138,8 @@
 
 <p align="center">
 	<img width="625em" src="https://github.com/saadfareed/saadfareed/blob/main/github-metrics.svg" />
-</p>	
+</p>
+	
 ## 🐛Github Magic Game
 
 <p align="center">
