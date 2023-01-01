@@ -7,7 +7,7 @@
 	
  ## Bootcamp alert
 - [MLSA UET Job Hunting Bootcamp](https://github.com/saadfareed/MLSA-Job-Hunting-bootcamp) will started soon.
-<img align="right" alt="" src="fresh.jpg" width="30%" />
+<img align="right" alt="" src="fresh.jpg" width="40%" />
 	
 ## My Python Development Course 
 - [Youtube channel for Tips](https://www.youtube.com/channel/UCSy4EMgtOa5rajZzmXOdTTQ)
