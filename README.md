@@ -146,6 +146,11 @@
 </p>
 <br>
 
+## Github Hype
+<div align="center">
+![](https://hit.yhype.me/github/profile?user_id=50300882)
+</div>
+
 <p align="center"> 
   Views<br>
   <img src="https://profile-counter.glitch.me/saadfareed/count.svg" />
