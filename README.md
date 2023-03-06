@@ -37,7 +37,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="100">
 </td>
 <td align='center'>
-<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-line.svg" width="100">
+<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" width="100">
 </td>
 <td align='center'>
 <img src="https://www.jing.fm/clipimg/full/53-537670_python-png-file-python-logo-png.png"  width="100">
