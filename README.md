@@ -1,25 +1,33 @@
 <body>
   <div align="center">
-    <h1 color=#F7CC18FF> Hi there, I'm Saad Fareed👋<a href="#"></h1>
+    <h1 style="color: #F7CC18FF;">Hi there, I'm Saad Fareed👋<a href="#"></a></h1>
   </div>
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=sans-serif+fonts&weight=800&size=24&duration=2000&pause=1000&color=F7CC18&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+;React+Developer;MERN+Stack+Developer" alt="Typing SVG" /></a>
+  <p align="center">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?font=sans-serif+fonts&weight=800&size=24&duration=2000&pause=1000&color=F7CC18&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+;React+Developer;MERN+Stack+Developer" alt="Typing SVG" />
+    </a>
+  </p>
 
- ## Bootcamp alert
-- [MLSA UET Job Hunting Bootcamp](https://github.com/saadfareed/MLSA-Job-Hunting-bootcamp) will started soon.
-<img align="right" alt="" src="fresh.jpg" width="25%" />
-	
-## My Python Development Course 
-- [Youtube channel for Tips](https://www.youtube.com/channel/UCSy4EMgtOa5rajZzmXOdTTQ)
+  <h2>Bootcamp alert</h2>
+  <ul>
+    <li><a href="https://github.com/saadfareed/MLSA-Job-Hunting-bootcamp">MLSA UET Job Hunting Bootcamp</a> will start soon.</li>
+  </ul>
+  <img align="right" alt="" src="fresh.jpg" width="25%" />
 
-### I'm a Python Developer, Teacher and Researcher!
+  <h2>My Python Development Course</h2>
+  <ul>
+    <li><a href="https://www.youtube.com/channel/UCSy4EMgtOa5rajZzmXOdTTQ">Youtube channel for Tips</a></li>
+  </ul>
 
-- 🔭 I’m currently working as Backend Engineer.
-- 🌱 I’m currently expanding my knowledge in MERN Stack.
-- 👯 I’m looking to collaborate with other content creators and developers.
-- 📢 Love to teach and inspire students. Taught over more then 600 students.
-- 🥅 2022-23 Goals: Contribute more to Open Source projects and Execute my Innovative ideas.
-- 💎 If you are a Tech boy/girl let's get connected
+  <h3>I'm a Python Developer, Teacher and Researcher!</h3>
+  <ul>
+    <li>🔭 I’m currently working as a Backend Engineer.</li>
+    <li>🌱 I’m currently expanding my knowledge in MERN Stack.</li>
+    <li>👯 I’m looking to collaborate with other content creators and developers.</li>
+    <li>📢 Love to teach and inspire students. Taught over more than 600 students.</li>
+    <li>🥅 2022-23 Goals: Contribute more to Open Source projects and Execute my Innovative ideas.</li>
+    <li>💎 If you are a Tech boy/girl let's get connected</li>
+  </ul>
 
 <h2>Tech Stack</h2>
 
