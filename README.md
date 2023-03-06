@@ -37,6 +37,9 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="100">
 </td>
 <td align='center'>
+<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-line.svg" width="100">
+</td>
+<td align='center'>
 <img src="https://www.jing.fm/clipimg/full/53-537670_python-png-file-python-logo-png.png"  width="100">
 </td>
 <td align='center'>
@@ -47,6 +50,9 @@
 </td>
 </tr>
 <tr>
+<td align='center'>
+<img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" width="70">
+</td>
 <td align='center'>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" width="70">
 </td>
@@ -68,6 +74,9 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg">
 </td>
 <td align='center' width="200">
+<img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg">
+</td>
+<td align='center' width="200">
 <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png">
 </td>
 <td align='center' width="200">
@@ -85,6 +94,9 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg"  width="90">
 </td>
 <td align='center' width="200">
+<img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg"  width="90">
+</td>
+<td align='center' width="200">
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="80">
 </td>
 </tr>
@@ -94,6 +106,9 @@
 </td>
 <td align='center' width="200">
 <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="90">
+</td>
+<td align='center' width="200">
+<img src="https://github.com/devicons/devicon/blob/master/icons/d3js/d3js-original.svg" width="90">
 </td>
 <td align='center' width="200">
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="90">
