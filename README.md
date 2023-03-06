@@ -136,19 +136,21 @@
 ## 🚀Github Metrics
 
 <p align="center">
-	<img width="625em" src="https://github.com/saadfareed/saadfareed/blob/main/github-metrics.svg" />
+    <img width="625em" src="https://github.com/saadfareed/saadfareed/blob/main/github-metrics.svg" />
 </p>
-	
+    
 ## 🐛Github Magic Game
 
 <p align="center">
-  <img src="https://github.com/saadfareed/saadfareed/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/saadfareed/saadfareed/raw/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
+
 <br>
 
 <p align="center"> 
   Views<br>
-  <img src="https://profile-counter.glitch.me/saadfareed/count.svg" />
+  <img src="https://profile-counter.glitch.me/saadfareed/count.svg">
 </p>
 
 ![](https://hit.yhype.me/github/profile?user_id=50300882)
+
