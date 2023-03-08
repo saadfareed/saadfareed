@@ -73,7 +73,7 @@
 <td align='center' width="200">
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg">
 </td>
-<td align='center' width="200">
+<td align='center'>
 <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg">
 </td>
 <td align='center' width="200">
