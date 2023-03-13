@@ -183,8 +183,7 @@
 </p>
 	
 	
-<img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=saadfareed&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"/>
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=saadfareed&badges=2&show-avatar=false">
 	
 ![](https://hit.yhype.me/github/profile?user_id=50300882)
 
