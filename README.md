@@ -137,6 +137,8 @@
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saadhaxxan&theme=gruvbox"/></td>
   </tr>
 </table>
+	
+<codersrank-summary username="saadfareed"></codersrank-summary>
 
 	
 ## Personal Projects
