@@ -28,7 +28,9 @@
     <li>🥅 2022-23 Goals: Contribute more to Open Source projects and Execute my Innovative ideas.</li>
     <li>💎 If you are a Tech boy/girl let's get connected</li>
   </ul>
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=saadfareed&badges=2&show-avatar=false&style=--header-bg-color:%23000">
 
+	
 <h2>Tech Stack</h2>
 
 <table>
@@ -181,9 +183,6 @@
   Views<br>
   <img src="https://profile-counter.glitch.me/saadfareed/count.svg">
 </p>
-	
-	
-<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=saadfareed&badges=2&show-avatar=false">
-	
+		
 ![](https://hit.yhype.me/github/profile?user_id=50300882)
 
