@@ -29,7 +29,7 @@
     <li>💎 If you are a Tech boy/girl let's get connected</li>
   </ul>
 <div width="100%">	
-	<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=saadfareed&badges=2&show-avatar=false&style=--header-bg-color:%2364a%22">
+	<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=saadfareed&badges=3&show-avatar=false&style=--header-bg-color:%2364a%22">
 </div>
 
 	
