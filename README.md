@@ -138,7 +138,6 @@
   </tr>
 </table>
 	
-<codersrank-summary username="saad fareed"></codersrank-summary>
 
 	
 ## Personal Projects
@@ -182,6 +181,9 @@
   Views<br>
   <img src="https://profile-counter.glitch.me/saadfareed/count.svg">
 </p>
+	
+	
+<codersrank-summary username="saadfareed" layout="vertical"></codersrank-summary>
 
 ![](https://hit.yhype.me/github/profile?user_id=50300882)
 
