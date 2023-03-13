@@ -31,6 +31,11 @@
 <div width="100%">	
 	<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=saadfareed&badges=3&show-avatar=false&style=--header-bg-color:%2364a%22">
 </div>
+<div style="width: 50%; margin: 0 auto;">
+  <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=saadfareed&badges=3&show-avatar=false&style=--header-bg-color:%2364a%22" alt="Saad Fareed's Profile Summary" style="max-width: 100%; filter: brightness(80%);">
+  <p style="font-family: 'Montserrat', sans-serif; font-size: 14px; text-align: center;">Saad Fareed's Profile Summary</p>
+</div>
+
 
 	
 <h2>Tech Stack</h2>
