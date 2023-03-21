@@ -29,6 +29,8 @@
     <li>💎 If you are a Tech boy/girl let's get connected</li>
   </ul>
 	
+<div width="100%"> <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=saadfareed&badges=3&show-avatar=true&show-header=true&badge-min-width=150&branding=false&style=--badge-technology-font-weight:500;--badge-rank-font-weight:normal;--badge-rank-font-size:16px;--badge-bg-color:%23000;--header-bg-color:%23000;--badge-text-color:%23fff;--badge-margin:5px;"> </div>
+	
 <h2>Tech Stack</h2>
 
 <table>
