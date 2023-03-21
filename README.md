@@ -25,7 +25,7 @@
     <li>🌱 I’m currently expanding my knowledge in MERN Stack.</li>
     <li>👯 I’m looking to collaborate with other content creators and developers.</li>
     <li>📢 Love to teach and inspire students. Taught over more than 600 students.</li>
-    <li>🥅 2022-23 Goals: Contribute more to Open Source projects and Execute my Innovative ideas.</li>
+    <li>🥅 2023-24 Goals: Contribute more to Open Source projects and Execute my Innovative ideas.</li>
     <li>💎 If you are a Tech boy/girl let's get connected</li>
   </ul>
 	
