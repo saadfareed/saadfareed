@@ -8,12 +8,6 @@
     </a>
   </p>
 
-  <h2>Bootcamp alert</h2>
-  <ul>
-    <li><a href="https://github.com/saadfareed/MLSA-Job-Hunting-bootcamp">MLSA UET Job Hunting Bootcamp</a> will start soon.</li>
-  </ul>
-  <img align="right" alt="" src="fresh.jpg" width="25%" />
-
   <h2>My Python Development Course</h2>
   <ul>
     <li><a href="https://www.youtube.com/channel/UCSy4EMgtOa5rajZzmXOdTTQ">Youtube channel for Tips</a></li>
