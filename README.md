@@ -13,12 +13,12 @@
     <li><a href="https://www.youtube.com/channel/UCSy4EMgtOa5rajZzmXOdTTQ">Youtube channel for Tips</a></li>
   </ul>
 
-  <h3>I'm a Python Developer, Teacher and Researcher!</h3>
+  <h3>I'm a Full stack Developer, Student, Teacher, Mentor and Researcher!</h3>
   <ul>
-    <li>🔭 I’m currently working as a Backend Engineer.</li>
-    <li>🌱 I’m currently expanding my knowledge in MERN Stack.</li>
+    <li>🔭 I’m currently working as a Software Development Engineer </li>
+    <li>🌱 I’m currently expanding my knowledge in Three Js.</li>
     <li>👯 I’m looking to collaborate with other content creators and developers.</li>
-    <li>📢 Love to teach and inspire students. Taught over more than 1000+ students.</li>
+    <li>📢 Love to teach and inspire students. Taught over more than 1500+ students.</li>
     <li>🥅 2023-24 Goals: Contribute more to Open Source projects and Execute my Innovative ideas.</li>
     <li>💎 If you are a Tech boy/girl let's get connected</li>
   </ul>
