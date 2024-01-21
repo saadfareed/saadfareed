@@ -7,19 +7,6 @@
       <img src="https://readme-typing-svg.herokuapp.com?font=sans-serif+fonts&weight=800&size=24&duration=2000&pause=1000&color=F7CC18&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+;Top+4%+Developer+Worldwide" alt="Typing SVG" />
     </a>
   </p>
-
-  <h2>My Python Development Course</h2>
-  <ul>
-    <li><a href="https://www.youtube.com/channel/UCSy4EMgtOa5rajZzmXOdTTQ">Youtube channel for Tips</a></li>
-  </ul>
-
-  <h3>I'm a Full stack Developer</h3>
-  <ul>
-    <li>🔭 I’m currently working as a Software Development Engineer </li>
-    <li>🌱 I’m currently expanding my knowledge in DevOps</li>
-    <li>👯 I’m looking to collaborate with other content creators and developers.</li>
-    <li>📢 Love to teach and inspire students. Taught over more than 2000+ students.</li>
-  </ul>
 	
 <div width="100%"> <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=saadfareed&badges=3&show-avatar=true&show-header=true&badge-min-width=150&branding=false&style=--badge-technology-font-weight:500;--badge-rank-font-weight:normal;--badge-rank-font-size:16px;--badge-bg-color:%23000;--header-bg-color:%23000;--badge-text-color:%23fff;--badge-margin:5px;"> </div>
 	
@@ -131,17 +118,6 @@
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saadfareed&theme=gruvbox"/></td>
   </tr>
 </table>
-	
-
-	
-## Personal Projects
-
-| Project :octocat: | Issues :bug: | Open PRs :bell: | Closed PRs :fire: | Last Commit 🚩 |
-| ----------------- | ------------- | ---------------- | ------------------ | -------------- |
-| [**Leetcode Practice**](https://github.com/saadfareed/Leetcode) | ![GitHub issues](https://img.shields.io/github/issues/saadfareed/Leetcode?color=green&logo=github&style=flat) | ![GitHub PRs](https://img.shields.io/github/issues-pr/saadfareed/Leetcode?style=flat&logo=github) | ![GitHub PRs](https://img.shields.io/github/issues-pr-closed/saadfareed/Leetcode?style=flat&color=critical&logo=github) | ![GitHub last commit](https://img.shields.io/github/last-commit/saadfareed/Leetcode?color=blue&logo=github&style=flat) |
-| [**Github Profile**](https://github.com/saadfareed/saadfareed) | ![GitHub issues](https://img.shields.io/github/issues/saadfareed/saadfareed?color=green&logo=github&style=flat) | ![GitHub PRs](https://img.shields.io/github/issues-pr/saadfareed/saadfareed?style=flat&logo=github) | ![GitHub PRs](https://img.shields.io/github/issues-pr-closed/saadfareed/saadfareed?style=flat&color=critical&logo=github) | ![GitHub last commit](https://img.shields.io/github/last-commit/saadfareed/saadfareed?color=blue&logo=github&style=flat) |
-| [**Certificate Generator**](https://github.com/saadfareed/Certificate_generator) | ![GitHub issues](https://img.shields.io/github/issues/saadfareed/Certificate_generator?color=green&logo=github&style=flat) | ![GitHub PRs](https://img.shields.io/github/issues-pr/saadfareed/Certificate_generator?style=flat&logo=github) | ![GitHub PRs](https://img.shields.io/github/issues-pr-closed/saadfareed/Certificate_generator?style=flat&color=critical&logo=github) | ![GitHub last commit](https://img.shields.io/github/last-commit/saadfareed/Certificate_generator?color=blue&logo=github&style=flat) |
-| [**Meeting Summarization**](https://github.com/saadfareed/transcript_summary) | ![GitHub issues](https://img.shields.io/github/issues/saadfareed/transcript_summary?color=green&logo=github&style=flat) | ![GitHub PRs](https://img.shields.io/github/issues-pr/saadfareed/transcript_summary?style=flat&logo=github) | ![GitHtiub PRs](https://img.shields.io/github/issues-pr-closed/saadfareed/transcript_summary?style=flat&color=critical&logo=github) | ![GitHub last commit](https://img.shields.io/github/last-commit/saadfareed/transcript_summary?color=blue&logo=github&style=flat) |
 
 [![@sadi's Holopin board](https://holopin.io/api/user/board?user=sadi)](https://holopin.io/@sadi)
 
