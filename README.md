@@ -4,7 +4,7 @@
   </div>
   <p align="center">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=sans-serif+fonts&weight=800&size=24&duration=2000&pause=1000&color=F7CC18&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+;React+Developer;MERN+Stack+Developer" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=sans-serif+fonts&weight=800&size=24&duration=2000&pause=1000&color=F7CC18&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+;Top+4%+Developer+Worldwide" alt="Typing SVG" />
     </a>
   </p>
 
@@ -13,14 +13,12 @@
     <li><a href="https://www.youtube.com/channel/UCSy4EMgtOa5rajZzmXOdTTQ">Youtube channel for Tips</a></li>
   </ul>
 
-  <h3>I'm a Full stack Developer, Student, Teacher, Mentor and Researcher!</h3>
+  <h3>I'm a Full stack Developer</h3>
   <ul>
     <li>🔭 I’m currently working as a Software Development Engineer </li>
-    <li>🌱 I’m currently expanding my knowledge in Three Js.</li>
+    <li>🌱 I’m currently expanding my knowledge in DevOps</li>
     <li>👯 I’m looking to collaborate with other content creators and developers.</li>
-    <li>📢 Love to teach and inspire students. Taught over more than 1500+ students.</li>
-    <li>🥅 2023-24 Goals: Contribute more to Open Source projects and Execute my Innovative ideas.</li>
-    <li>💎 If you are a Tech boy/girl let's get connected</li>
+    <li>📢 Love to teach and inspire students. Taught over more than 2000+ students.</li>
   </ul>
 	
 <div width="100%"> <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=saadfareed&badges=3&show-avatar=true&show-header=true&badge-min-width=150&branding=false&style=--badge-technology-font-weight:500;--badge-rank-font-weight:normal;--badge-rank-font-size:16px;--badge-bg-color:%23000;--header-bg-color:%23000;--badge-text-color:%23fff;--badge-margin:5px;"> </div>
