@@ -1,5 +1,8 @@
 <div align="center">
   <h1 style="color: #F7CC18FF;">Hi there, I'm Saad Fareed👋<a href="#"></a></h1>
+  <a href="https://github.com/saadfareed/your-repo-path-to-resume/resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/View%20My%20Resume-Click%20Here-brightgreen?style=for-the-badge"/>
+  </a>
 </div>
 <p align="center">
   <a href="https://git.io/typing-svg">
