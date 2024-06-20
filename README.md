@@ -114,13 +114,13 @@ As a highly skilled Software Engineer, I specialize in the design, development, 
   <a href="https://leetcode.com/Saadfareed/"><img src="https://img.shields.io/badge/-/saadfareed-e8b519?style=flat&logo=leetcode&logoColor=black"/></a>
 </p>
 
+<p align="center">
+  <img src="https://hit.yhype.me/github/profile?user_id=50300882">
+</p>
+
 <p align="center"> 
   Views<br>
   <img src="https://profile-counter.glitch.me/saadfareed/count.svg">
-</p>
-
-<p align="center">
-  <img src="https://hit.yhype.me/github/profile?user_id=50300882">
 </p>
 
 [![@sadi's Holopin board](https://holopin.io/api/user/board?user=sadi)](https://holopin.io/@sadi)
