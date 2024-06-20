@@ -118,9 +118,9 @@ As a highly skilled Software Engineer, I specialize in the design, development, 
   <img src="https://hit.yhype.me/github/profile?user_id=50300882">
 </p>
 
+[![@sadi's Holopin board](https://holopin.io/api/user/board?user=sadi)](https://holopin.io/@sadi)
+
 <p align="center"> 
   Views<br>
   <img src="https://profile-counter.glitch.me/saadfareed/count.svg">
 </p>
-
-[![@sadi's Holopin board](https://holopin.io/api/user/board?user=sadi)](https://holopin.io/@sadi)
