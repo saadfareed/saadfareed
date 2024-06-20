@@ -12,18 +12,37 @@
 </div>
 
 ## About Me
-
 **Software Engineer | Among the Top 4% Developers Worldwide | Among Top 50 Python Developers in Pakistan | Python, Django, Vue, Nuxt, D3, React, Typescript, Angular | AWS Lambda | AWS SQS | Docker**
 
-As a highly skilled Software Engineer, I possess a strong drive to create efficient and scalable applications. My track record speaks volumes about my ability to deliver high-quality code consistently meeting project goals. Full Stack Development and Large Scale Distributed Systems are particularly interesting to me.
+As a highly skilled Software Engineer, I specialize in the design, development, and deployment of web applications, web platforms, and hybrid mobile applications. Leveraging a diverse skill set across numerous programming languages and frameworks, I deliver robust and innovative solutions that drive digital transformation and deliver on business objectives.
 
-In my previous role as a Software Engineer at Codeviz Technologies, I was deeply involved in developing applications and websites using Vue, NuxtJS, Vuetify, and the Django REST Framework. Throughout my career, I have completed numerous projects, ranging from websites to dashboards and internal applications.
+### Frontend Expertise:
+- **Web Design and Front-End Development:** Proficient in JavaScript, Vue, Angular, and React for dynamic and interactive front-end experiences.
+- **Design to Code:** Expertise in converting Figma/XD designs into HTML for pixel-perfect implementation.
+- **Server-Side Rendering:** Skilled in NuxtJS and NextJS for optimized performance and SEO.
+- **State Management:** Efficient with Redux, Vuex, and NgRx to manage complex states in JavaScript applications.
+- **E-commerce Platforms and Dashboards:** Experienced in building engaging e-commerce platforms and dashboards.
+- **Frontend Technologies:** Adept with HTML, CSS, Bootstrap, Material UI, and Tailwind CSS to create visually appealing and responsive designs.
 
-Currently, I am working as a Software Engineer at Agrilift, where I play a pivotal role in digitizing the agri-ecosphere. My responsibilities primarily involve developing core features using technologies like Python with Django, MySQL, AWS SQS, AWS Lambda, AngularJS, and .NET.
+### Backend Expertise:
+- **Web and Back-End Development:** Skilled in Node.js, .Net, Python, Django, Django REST Framework, and FastAPI for robust server-side programming.
+- **NodeJS Frameworks:** Proficient with ExpressJS and NestJS for backend development.
 
-Collaboration is key to my work approach, and I have gained invaluable learning experiences by working effectively in diverse teams. Beyond my professional commitments, I devote my free time to sharing my passion for Computer Science by imparting knowledge to students. To date, I have successfully trained over 2,000+ students, empowering them with essential concepts and skills.
+### Database Skills:
+- **Database Management:** Skilled in SQLite, MySQL, PostgreSQL, MongoDB, and DynamoDB for data management and storage.
+- **Queries:** Expert in complex queries.
 
-With a keen eye for detail and a passion for excellence, I continually strive to make a positive impact in the world of software development. My commitment to efficient and scalable solutions remains unwavering, and I am excited about the opportunities that lie ahead to contribute further to the field.
+### DevOps Skills:
+- **Cloud Services:** Proficient in Amazon Web Services (AWS) and Google Cloud Platform (GCP) for cloud-based solutions.
+- **Containerization and Server Configuration:** Skilled in Docker and Nginx.
+- **Continuous Integration:** Experienced in Jenkins and Github Actions for seamless software development and deployment.
+
+### Other Skills:
+- **Web Application Development:** Adept at developing robust and scalable web applications.
+- **Task Management:** Skilled with Celery for distributed task queues.
+- **API Integration:** Experienced in Google Maps API and Payment Gateway Integration (Stripe, Braintree).
+- **Version Control:** Proficient with Jira, Git, Bitbucket, and GitHub for project management and version control.
+- **Data Search:** Skilled with Elasticsearch for advanced search capabilities.
 
 ## 🛠 Tech Stack
 
