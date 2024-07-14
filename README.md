@@ -6,12 +6,12 @@
 </div>
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=sans-serif+fonts&weight=800&size=24&duration=2000&pause=1000&color=F7CC18&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+;Top+4%+Developer+Worldwide" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=sans-serif+fonts&weight=800&size=24&duration=2000&pause=1000&color=F7CC18&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+;Top+2%+Developer+Worldwide" alt="Typing SVG" />
   </a>
 </p>
 
 ## About Me
-**Software Engineer | Among the Top 4% Developers Worldwide | Among Top 50 Python Developers in Pakistan | Python, Django, Vue, Nuxt, D3, React, Typescript, Angular | AWS Lambda | AWS SQS | Docker**
+**Software Engineer | Among the Top 2% Developers Worldwide | Among Top 50 Python Developers in Pakistan | Python, Django, Vue, Nuxt, D3, React, Typescript, Angular | AWS Lambda | AWS SQS | Docker**
 
 As a highly skilled Software Engineer, I specialize in the design, development, and deployment of web applications, web platforms, and hybrid mobile applications. Leveraging a diverse skill set across numerous programming languages and frameworks, I deliver robust and innovative solutions that drive digital transformation and deliver on business objectives.
 
