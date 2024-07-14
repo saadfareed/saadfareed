@@ -10,10 +10,6 @@
   </a>
 </p>
 
-<div width="100%"> 
-  <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=saadfareed&badges=3&show-avatar=true&show-header=true&badge-min-width=150&branding=false&style=--badge-technology-font-weight:500;--badge-rank-font-weight:normal;--badge-rank-font-size:16px;--badge-bg-color:%23000;--header-bg-color:%23000;--badge-text-color:%23fff;--badge-margin:5px;">
-</div>
-
 ## About Me
 **Software Engineer | Among the Top 4% Developers Worldwide | Among Top 50 Python Developers in Pakistan | Python, Django, Vue, Nuxt, D3, React, Typescript, Angular | AWS Lambda | AWS SQS | Docker**
 
