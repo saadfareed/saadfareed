@@ -105,6 +105,7 @@ As a highly skilled Software Engineer, I specialize in the design, development, 
   <a href="https://www.instagram.com/saadfareed_sadi/"><img src="https://img.shields.io/badge/-@saadfareed-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
   <a href="https://leetcode.com/Saadfareed/"><img src="https://img.shields.io/badge/-/saadfareed-e8b519?style=flat&logo=leetcode&logoColor=white"/></a>
   <a href="https://kaggle.com/saadfareed/"><img src="https://img.shields.io/badge/-/saadfareed-191ce8?style=flat&logo=kaggle&logoColor=white"/></a>
+  <a href="https://github.com/saadfareed/"><img src="https://img.shields.io/github/stars/saadfareed/saadfareed"/></a>
 </p>
 
 <p align="center">
