@@ -51,30 +51,28 @@ As a highly skilled Software Engineer, I specialize in the design, development, 
 <td align='center'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="90"></td>
 <td align='center'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="90"></td>
 <td align='center' width="200"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="90"></td>
+<td align='center' width="200"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="90"></td>
 </tr>
 <tr>
 <td align='center'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" width="90"></td>
-<td align='center' width="200"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="90"></td>
 <td align='center' width="200"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="90"></td>
 <td align='center' width="200"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="90"></td>
-</tr>
-<tr>
-<td align='center' width="200"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="90"></td>
 <td align='center'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" width="90"></td>
 <td align='center' width="200"><img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" width="90"></td>
-<td align='center' width="200"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="90"></td>
 </tr>
 <tr>
 <td align='center' width="200"><img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" width="90"></td>
-<td align='center' width="200"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" width="90"></td>
 <td align='center' width="200"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width="90"></td>
 <td align='center' width="200"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" width="90"></td>
+<td align='center' width="200"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="90"></td>
+<td align='center' width="200"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="90"></td>
 </tr>
 <tr>
-<td align='center' width="200"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="90"></td>
+<td align='center' width="200"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/dotnetcore/dotnetcore-original.svg" width="90"></td>
 <td align='center' width="200"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg" width="90"></td>
 <td align='center' width="200"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="90"></td>
 <td align='center' width="200"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" width="90"></td>
+<td align='center' width="200"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/fastapi/fastapi-original.svg" width="90"></td>
 </tr>
 </table>
 
