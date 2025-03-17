@@ -1,118 +1,88 @@
 <div align="center">
-  <h1 style="color: #F7CC18FF;">Hi there, I'm Saad Fareed👋<a href="#"></a></h1>
+  <h1 style="color: #F7CC18FF;">Hi there, I'm Saad Fareed 👋</h1>
   <a href="https://github.com/saadfareed/saadfareed/tree/main/resume/saadfareed_Resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/View%20My%20Resume-Click%20Here-brightgreen?style=for-the-badge"/>
   </a>
 </div>
+
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=sans-serif+fonts&weight=800&size=24&duration=2000&pause=1000&color=F7CC18&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+;Top+2%+Developer+Worldwide" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=2000&pause=1000&color=F7CC18&center=true&vCenter=true&width=500&lines=Software+Engineer;Top+2%+Python+Developer+Worldwide;Full+Stack+Developer;Open+Source+Contributor" alt="Typing SVG" />
   </a>
 </p>
 
-## About Me
-**Software Engineer | Among the Top 2% Developers Worldwide | Among Top 50 Python Developers in Pakistan | Python, Django, Vue, Nuxt, D3, React, Typescript, Angular | AWS Lambda | AWS SQS | Docker**
+---
 
-As a highly skilled Software Engineer, I specialize in the design, development, and deployment of web applications, web platforms, and hybrid mobile applications. Leveraging a diverse skill set across numerous programming languages and frameworks, I deliver robust and innovative solutions that drive digital transformation and deliver on business objectives.
+## 🚀 About Me  
+**Software Engineer | Full Stack Developer | Top 2% Python Developer Worldwide | AWS, Django, Vue, React, FastAPI, Docker**
 
-### Frontend Expertise:
-- **Web Design and Front-End Development:** Proficient in JavaScript, Vue, Angular, and React for dynamic and interactive front-end experiences.
-- **Design to Code:** Expertise in converting Figma/XD designs into HTML for pixel-perfect implementation.
-- **Server-Side Rendering:** Skilled in NuxtJS and NextJS for optimized performance and SEO.
-- **State Management:** Efficient with Redux, Vuex, and NgRx to manage complex states in JavaScript applications.
-- **E-commerce Platforms and Dashboards:** Experienced in building engaging e-commerce platforms and dashboards.
-- **Frontend Technologies:** Adept with HTML, CSS, Bootstrap, Material UI, and Tailwind CSS to create visually appealing and responsive designs.
+I am a highly skilled **Software Engineer** passionate about solving complex business problems through code. With a strong background in **backend and frontend development**, I have contributed to **50+ projects** for **leading tech startups**. I specialize in building **scalable, efficient, and high-performance applications** using modern technologies.
 
-### Backend Expertise:
-- **Web and Back-End Development:** Skilled in Node.js, .Net, Python, Django, Django REST Framework, and FastAPI for robust server-side programming.
-- **NodeJS Frameworks:** Proficient with ExpressJS and NestJS for backend development.
+🔹 **Backend:** Python, Django, FastAPI, Node.js, .NET  
+🔹 **Frontend:** Vue, React, Angular, TypeScript, Nuxt, Next.js  
+🔹 **Databases:** PostgreSQL, MySQL, MongoDB, DynamoDB  
+🔹 **Cloud & DevOps:** AWS Lambda, SQS, Docker, CI/CD  
+🔹 **Others:** D3.js, Elasticsearch, Payment Gateways  
 
-### Database Skills:
-- **Database Management:** Skilled in SQLite, MySQL, PostgreSQL, MongoDB, and DynamoDB for data management and storage.
-- **Queries:** Expert in complex queries.
+---
 
-### DevOps Skills:
-- **Cloud Services:** Proficient in Amazon Web Services (AWS) and Google Cloud Platform (GCP) for cloud-based solutions.
-- **Containerization and Server Configuration:** Skilled in Docker and Nginx.
-- **Continuous Integration:** Experienced in Jenkins and Github Actions for seamless software development and deployment.
+## 🛠 Tech Stack  
 
-### Other Skills:
-- **Web Application Development:** Adept at developing robust and scalable web applications.
-- **Task Management:** Skilled with Celery for distributed task queues.
-- **API Integration:** Experienced in Google Maps API and Payment Gateway Integration (Stripe, Braintree).
-- **Version Control:** Proficient with Jira, Git, Bitbucket, and GitHub for project management and version control.
-- **Data Search:** Skilled with Elasticsearch for advanced search capabilities.
+### 🚀 **Languages & Frameworks**
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge)
 
-## 🛠 Tech Stack
+### ☁️ **Cloud & DevOps**
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white&style=for-the-badge)
 
-<table>
-<tr>
-<td align='center'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="90"></td>
-<td align='center'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="90"></td>
-<td align='center'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="90"></td>
-<td align='center' width="200"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="90"></td>
-<td align='center' width="200"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="90"></td>
-</tr>
-<tr>
-<td align='center'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" width="90"></td>
-<td align='center' width="200"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="90"></td>
-<td align='center' width="200"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="90"></td>
-<td align='center'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" width="90"></td>
-<td align='center' width="200"><img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" width="90"></td>
-</tr>
-<tr>
-<td align='center' width="200"><img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" width="90"></td>
-<td align='center' width="200"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width="90"></td>
-<td align='center' width="200"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" width="90"></td>
-<td align='center' width="200"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="90"></td>
-<td align='center' width="200"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="90"></td>
-</tr>
-<tr>
-<td align='center' width="200"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/dotnetcore/dotnetcore-original.svg" width="90"></td>
-<td align='center' width="200"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg" width="90"></td>
-<td align='center' width="200"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="90"></td>
-<td align='center' width="200"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" width="90"></td>
-<td align='center' width="200"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/fastapi/fastapi-original.svg" width="90"></td>
-</tr>
-</table>
+### 🗄 **Databases**
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
 
-## 📊 GitHub Stats
+---
 
-<table>
-  <tr>
-    <th>Stats</th>
-    <th>Streak</th>
-    <th>Languages</th>
-  </tr>
-  <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saadfareed&theme=gruvbox"/></td>
-    <td><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=saadfareed&theme=gruvbox&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888"/></a></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saadfareed&theme=gruvbox"/></td>
-  </tr>
-</table>
-
-## 🏆 GitHub Trophies
+## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saadfareed&theme=gruvbox&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saadfareed&theme=gruvbox" height="150px"/>
+  <img src="https://streak-stats.demolab.com/?user=saadfareed&theme=gruvbox&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888" height="150px"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saadfareed&theme=gruvbox" height="150px"/>
 </p>
 
-## 🌐 Connect with Me
+---
+
+## 🏆 Achievements & Badges  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/saad-fareed/"><img src="https://img.shields.io/badge/-/saadfareed-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:saadfareed632@gmail.com"><img src="https://img.shields.io/badge/-saadfareed@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-  <a href="https://www.instagram.com/saadfareed_sadi/"><img src="https://img.shields.io/badge/-@saadfareed-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-  <a href="https://leetcode.com/Saadfareed/"><img src="https://img.shields.io/badge/-/saadfareed-e8b519?style=flat&logo=leetcode&logoColor=white"/></a>
-  <a href="https://kaggle.com/saadfareed/"><img src="https://img.shields.io/badge/-/saadfareed-191ce8?style=flat&logo=kaggle&logoColor=white"/></a>
-  <a href="https://github.com/saadfareed/"><img src="https://img.shields.io/github/stars/saadfareed/saadfareed"/></a>
+  <img src="cloud/image (1).png" alt="Python Badge" height="150px"/>
+  <img src="cloud/image (2).png" alt="Django Badge" height="150px"/>
+  <img src="cloud/image (3).png" alt="Machine Learning Badge" height="150px"/> 
+  <img src="cloud/image (4).png" alt="Machine Learning Badge" height="150px"/> 
+  <img src="cloud/image (5).png" alt="Machine Learning Badge" height="150px"/> 
+  <img src="cloud/image (6).png" alt="Machine Learning Badge" height="150px"/> 
 </p>
+
+---
+
+## 🌐 Connect with Me  
 
 <p align="center">
-  <img src="https://hit.yhype.me/github/profile?user_id=50300882">
+  <a href="https://www.linkedin.com/in/saad-fareed/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:saadfareed632@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.instagram.com/saadfareed_sadi/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://leetcode.com/Saadfareed/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+  <a href="https://kaggle.com/saadfareed/"><img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
+  <a href="https://github.com/saadfareed/"><img src="https://img.shields.io/github/stars/saadfareed/saadfareed?style=for-the-badge"/></a>
 </p>
 
-[![@sadi's Holopin board](https://holopin.io/api/user/board?user=sadi)](https://holopin.io/@sadi)
+---
 
 <p align="center"> 
   Views<br>
