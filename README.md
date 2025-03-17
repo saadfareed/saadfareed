@@ -63,7 +63,7 @@ I am a highly skilled **Software Engineer** passionate about solving complex bus
 
 ---
 
-## 🏆 Achievements & Badges  
+## Cloud Certification
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; padding: 20px;">
   <div style="flex: 1 1 150px; text-align: center;">
@@ -81,9 +81,6 @@ I am a highly skilled **Software Engineer** passionate about solving complex bus
   </div>
   <div style="flex: 1 1 150px; text-align: center;">
     <img src="cloud/image (5).png" alt="Machine Learning Badge" style="max-height: 100px; max-width: 100%;">
-  </div>
-  <div style="flex: 1 1 150px; text-align: center;">
-    <img src="cloud/image (6).png" alt="Machine Learning Badge" style="max-height: 100px; max-width: 100%;">
   </div>
 </div>
 
