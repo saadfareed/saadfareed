@@ -50,7 +50,7 @@ I am a highly skilled **Software Engineer** passionate about solving complex bus
 
 ## 📊 GitHub Stats  
 
-<p align="center" display="flex">
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saadfareed&theme=gruvbox"/>
   <img src="https://streak-stats.demolab.com/?user=saadfareed&theme=gruvbox&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saadfareed&theme=gruvbox"/>
