@@ -48,26 +48,33 @@ I am a highly skilled **Software Engineer** passionate about solving complex bus
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saadfareed&theme=gruvbox"/>
-  <img src="https://streak-stats.demolab.com/?user=saadfareed&theme=gruvbox&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saadfareed&theme=gruvbox"/>
-</p>
+<table>
+  <tr>
+    <th>Stats</th>
+    <th>Streak</th>
+    <th>Languages</th>
+  </tr>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saadfareed&theme=gruvbox"/></td>
+    <td><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=saadfareed&theme=gruvbox&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888"/></a></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saadfareed&theme=gruvbox"/></td>
+  </tr>
+</table>
 
 ---
 
 ## 🏆 Achievements & Badges  
 
-<p align="center">
-  <img src="cloud/image (1).png" alt="Python Badge" height="150px"/>
-  <img src="cloud/image (2).png" alt="Django Badge" height="150px"/>
-  <img src="cloud/image (3).png" alt="Machine Learning Badge" height="150px"/> 
-  <img src="cloud/image (4).png" alt="Machine Learning Badge" height="150px"/> 
-  <img src="cloud/image (5).png" alt="Machine Learning Badge" height="150px"/> 
-  <img src="cloud/image (6).png" alt="Machine Learning Badge" height="150px"/> 
-</p>
+<table align="center" style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td style="border: none; text-align: center; height: 120px;"><img src="cloud/image (1).png" alt="Python Badge" style="height: 100px;"/></td>
+    <td style="border: none; text-align: center; height: 120px;"><img src="cloud/image (2).png" alt="Django Badge" style="height: 100px;" /></td>
+    <td style="border: none; text-align: center; height: 120px;"><img src="cloud/image (3).png" alt="Machine Learning Badge" style="height: 100px;" /></td>
+    <td style="border: none; text-align: center; height: 120px;"><img src="cloud/image (4).png" alt="Machine Learning Badge" style="height: 100px;" /></td>
+    <td style="border: none; text-align: center; height: 120px;"><img src="cloud/image (5).png" alt="Machine Learning Badge" style="height: 100px;" /></td>
+    <td style="border: none; text-align: center; height: 120px;"><img src="cloud/image (6).png" alt="Machine Learning Badge" style="height: 100px;" /></td>
+  </tr>
+</table>
 
 ---
 
