@@ -65,16 +65,27 @@ I am a highly skilled **Software Engineer** passionate about solving complex bus
 
 ## 🏆 Achievements & Badges  
 
-<table align="center" style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td style="border: none; text-align: center; height: 120px;"><img src="cloud/image (1).png" alt="Python Badge" style="height: 100px;"/></td>
-    <td style="border: none; text-align: center; height: 120px;"><img src="cloud/image (2).png" alt="Django Badge" style="height: 100px;" /></td>
-    <td style="border: none; text-align: center; height: 120px;"><img src="cloud/image (3).png" alt="Machine Learning Badge" style="height: 100px;" /></td>
-    <td style="border: none; text-align: center; height: 120px;"><img src="cloud/image (4).png" alt="Machine Learning Badge" style="height: 100px;" /></td>
-    <td style="border: none; text-align: center; height: 120px;"><img src="cloud/image (5).png" alt="Machine Learning Badge" style="height: 100px;" /></td>
-    <td style="border: none; text-align: center; height: 120px;"><img src="cloud/image (6).png" alt="Machine Learning Badge" style="height: 100px;" /></td>
-  </tr>
-</table>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; padding: 20px;">
+  <div style="flex: 1 1 150px; text-align: center;">
+    <img src="cloud/image (1).png" alt="Python Badge" style="max-height: 100px; max-width: 100%;">
+  </div>
+  <div style="flex: 1 1 150px; text-align: center;">
+    <img src="cloud/image (2).png" alt="Django Badge" style="max-height: 100px; max-width: 100%;">
+  </div>
+  <div style="flex: 1 1 150px; text-align: center;">
+    <img src="cloud/image (3).png" alt="Machine Learning Badge" style="max-height: 100px; max-width: 100%;">
+  </div>
+  
+  <div style="flex: 1 1 150px; text-align: center;">
+    <img src="cloud/image (4).png" alt="Machine Learning Badge" style="max-height: 100px; max-width: 100%;">
+  </div>
+  <div style="flex: 1 1 150px; text-align: center;">
+    <img src="cloud/image (5).png" alt="Machine Learning Badge" style="max-height: 100px; max-width: 100%;">
+  </div>
+  <div style="flex: 1 1 150px; text-align: center;">
+    <img src="cloud/image (6).png" alt="Machine Learning Badge" style="max-height: 100px; max-width: 100%;">
+  </div>
+</div>
 
 ---
 
