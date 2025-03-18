@@ -65,23 +65,12 @@ I am a highly skilled **Software Engineer** passionate about solving complex bus
 
 ## Cloud Certification
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; padding: 20px;">
-  <div style="flex: 1 1 150px; text-align: center;">
-    <img src="cloud/image (1).png" alt="Python Badge" style="max-height: 100px; max-width: 100%;">
-  </div>
-  <div style="flex: 1 1 150px; text-align: center;">
-    <img src="cloud/image (2).png" alt="Django Badge" style="max-height: 100px; max-width: 100%;">
-  </div>
-  <div style="flex: 1 1 150px; text-align: center;">
-    <img src="cloud/image (3).png" alt="Machine Learning Badge" style="max-height: 100px; max-width: 100%;">
-  </div>
-  
-  <div style="flex: 1 1 150px; text-align: center;">
-    <img src="cloud/image (4).png" alt="Machine Learning Badge" style="max-height: 100px; max-width: 100%;">
-  </div>
-  <div style="flex: 1 1 150px; text-align: center;">
-    <img src="cloud/image (5).png" alt="Machine Learning Badge" style="max-height: 100px; max-width: 100%;">
-  </div>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 5px; padding: 5px; justify-items: center; align-items: center;">
+  <img src="cloud/image (1).png" alt="Python Badge" style="max-height: 200px; max-width: 100%;">
+  <img src="cloud/image (2).png" alt="Django Badge" style="max-height: 200px; max-width: 100%;">
+  <img src="cloud/image (3).png" alt="Machine Learning Badge" style="max-height: 200px; max-width: 100%;">
+  <img src="cloud/image (5).png" alt="Another Badge" style="max-height: 200px; max-width: 100%;">
+  <!-- <img src="cloud/image (4).png" alt="Another Badge" style="max-height: 180px; max-width: 100%;"> -->
 </div>
 
 ---
