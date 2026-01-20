@@ -46,20 +46,13 @@ I am a highly skilled **Software Engineer** passionate about solving complex bus
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
 
----
-
-<table>
-  <tr>
-    <th>Stats</th>
-    <th>Streak</th>
-    <th>Languages</th>
-  </tr>
-  <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saadfareed&theme=gruvbox"/></td>
-    <td><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=saadfareed&theme=gruvbox&hide_border=true"/></a></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saadfareed&theme=gruvbox"/></td>
-  </tr>
-</table>
+<!-- <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saadfareed&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadfareed&layout=compact&theme=gruvbox&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
+</div>
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=saadfareed&theme=gruvbox&hide_border=true" alt="GitHub Streak"/>
+</div> -->
 
 ---
 
@@ -88,7 +81,6 @@ I am a highly skilled **Software Engineer** passionate about solving complex bus
 
 ---
 
-<p align="center"> 
-  Views<br>
-  <img src="https://profile-counter.glitch.me/saadfareed/count.svg">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=saadfareed&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
 </p>
